@@ -69,7 +69,7 @@ Se ignorares o pet durante muito tempo (fome e energia a zero), ele
 python -m unittest discover -s tests -v
 ```
 
-## Conceitos usados (para o relatório)
+## Conceitos usados
 
 - **POO**: classes `Pet`, `Jogo`, `Botao`, `GestorAnimacao`, `GestorDados`
 - **Estruturas de dados**: dicionários (atributos, paleta de cores), listas
